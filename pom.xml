@@ -27,7 +27,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
-					<username>nkian@acumensolutions.com</username>
+					<username>nkian</username>
 					<password>Nilou201</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
