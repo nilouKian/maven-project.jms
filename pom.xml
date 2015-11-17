@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mulesfot.training</groupId>
-	<artifactId>mave.project</artifactId>
+	<artifactId>mave.project-NK</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule mave.project Application</name>
@@ -31,7 +31,7 @@
 					<password>Nilou201</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
-					<environment>BOOTCAMP</environment>
+					<environment>MuleAdvancedTraining</environment>
 				</configuration>
 				<executions>
 					<execution>
